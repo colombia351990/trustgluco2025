@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GlucoTrust - Natuurlijk Ondersteuning voor Bloedsuiker</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f6f8fa;
+      color: #333;
+    }
+    header {
+      background: #0174be;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 20px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #0174be;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 25px;
+      background: #ff6a00;
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+    }
+    ul {
+      margin: 15px 0;
+    }
+    footer {
+      text-align: center;
+      font-size: 12px;
+      color: #666;
+      margin-top: 40px;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GlucoTrust™ - Natuurlijk Ondersteuning voor Bloedsuiker</h1>
+    <p>Affiliate Link: <strong>kingwinklaar35</strong></p>
+  </header>
+
+  <div class="container">
+    <h2>Waarom kiezen voor GlucoTrust?</h2>
+    <ul>
+      <li>Ondersteunt een gezonde bloedsuikerspiegel</li>
+      <li>Bevordert diepe en rustgevende slaap</li>
+      <li>Vermindert suiker- en hongergevoelens</li>
+      <li>Verhoogt energie en stofwisseling</li>
+      <li>Bevat 100% natuurlijke ingrediënten</li>
+    </ul>
+
+    <h2>Krachtige ingrediënten</h2>
+    <ul>
+      <li><strong>Gymnema Sylvestre:</strong> Vermindert suikercravings</li>
+      <li><strong>Biotine:</strong> Verbetert de stofwisseling en ondersteunt huid, haar en nagels</li>
+      <li><strong>Chroom:</strong> Verbetert de insulinewerking</li>
+      <li><strong>Kaneel:</strong> Helpt bij het reguleren van de bloeddruk</li>
+      <li><strong>Zink & Jeneverbessen:</strong> Versterken het immuunsysteem en verminderen ontstekingen</li>
+    </ul>
+
+    <h2>Speciale aanbieding</h2>
+    <ul>
+      <li>1 fles – €49 + verzendkosten</li>
+      <li>3 flessen – €117 (gratis verzending)</li>
+      <li>6 flessen – €204 (gratis verzending)</li>
+    </ul>
+
+    <h2>60 dagen niet-goed-geld-terug garantie</h2>
+    <p>Probeer GlucoTrust risicovrij gedurende 60 dagen. Niet tevreden? Geld terug, zonder vragen!</p>
+
+    <a class="button" href="https://getglucotrust.co/#aff=kingwinklaar35" target="_blank">Bestel GlucoTrust nu</a>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 GlucoTrust™ – Alle rechten voorbehouden</p>
+    <p>Deze verklaring is niet geëvalueerd door de FDA. Dit product is niet bedoeld om ziekten te diagnosticeren, behandelen, genezen of voorkomen.</p>
+  </footer>
+</body>
+</html>
